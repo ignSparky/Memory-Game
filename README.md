@@ -1,5 +1,5 @@
 # The Memorise Game
-A memorise game inspired by Giovanni Gato, from Reddit. In this game there are randomly ganerated map with some squares. You have to remember numbers on them and click with certain order f. e. (1, 2, 3...6). You also have saved high score, which make you able to track your progress in memory exercises. Great game for training short-term memory.
+This is a memory game that was coded in python. It will show you 5 numbers, delete them, and then will ask you questions about the numbers. This game is especially hard, if you make the difficulty on Insane. Have fun playing this game. 
 
 ## How to start
 
@@ -15,7 +15,7 @@ python main.py
 
 ## Credits
 
-This is a project I decided working on, because i stumbled across a way to delete python lines that have already been printed.
+This is a project I decided working on, because I stumbled across a way to delete python lines that have already been printed.
 I believed this was really cool, so I decided to make a game using this method.
 
 
