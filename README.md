@@ -11,7 +11,7 @@ python main.py
 
 ## Authors
 
-[porfinogeneta](https://github.com/ignSparky)
+[ignSparky](https://github.com/ignSparky)
 
 ## Credits
 
