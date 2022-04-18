@@ -18,5 +18,6 @@ python main.py
 This is a project I decided working on, because I stumbled across a way to delete python lines that have already been printed.
 I believed this was really cool, so I decided to make a game using this method.
 
+The "delete_last_line" function was copied from [This stack overflow answer](https://stackoverflow.com/questions/19596750/is-there-a-way-to-clear-your-printed-text-in-python)
 
 ## Licence
