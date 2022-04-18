@@ -11,7 +11,7 @@ python main.py
 
 ## Authors
 
-[ignSparky](https://github.com/ignSparky) [Aniket Navlur(couldn't find a Github)](https://stackoverflow.com/users/8665970/aniket-navlur)
+[ignSparky](https://github.com/ignSparky) and [Aniket Navlur(couldn't find a Github)](https://stackoverflow.com/users/8665970/aniket-navlur)
 
 ## Credits
 
