@@ -51,7 +51,13 @@ time.sleep(0.1)
 delete_last_line()
 time.sleep(0.4)
 
-question = int(input("What was the third number? "))
+invalid = True
+question = input("What was the third number? ")
+while invalid == True:
+    if guess == '1' or guess == '2' or guess == '3' or guess == '4' or guess == '5' or guess == '6' or guess == '7' or guess == '8' or guess == '9' or guess == '10':
+        break
+    else:
+        guess = input("Invalid input, try again: ")
 if question == no3:
     score += 1
     print("Correct, keep going.")
@@ -59,7 +65,13 @@ if question == no3:
 else:
     print("Incorrect, keep going.")
     time.sleep(0.5)
-question = int(input("What was the last number? "))
+invalid = True
+question = input("What was the last number? ")
+while invalid == True:
+    if guess == '1' or guess == '2' or guess == '3' or guess == '4' or guess == '5' or guess == '6' or guess == '7' or guess == '8' or guess == '9' or guess == '10':
+        break
+    else:
+        guess = input("Invalid input, try again: ")
 if question == no5:
     score += 1
     print("Correct, keep going.")
@@ -67,7 +79,13 @@ if question == no5:
 else:
     print("Incorrect, keep going.")
     time.sleep(0.5)
-question = int(input("What was the first number? "))
+invalid = True
+question = input("What was the first number? ")
+while invalid == True:
+    if guess == '1' or guess == '2' or guess == '3' or guess == '4' or guess == '5' or guess == '6' or guess == '7' or guess == '8' or guess == '9' or guess == '10':
+        break
+    else:
+        guess = input("Invalid input, try again: ")
 if question == no1:
     score += 1
     print("Correct, keep going.")
@@ -75,7 +93,13 @@ if question == no1:
 else:
     print("Incorrect, keep going.")
     time.sleep(0.5)
-question = int(input("How many numbers were there? "))
+invalid = True
+question = input("What was the last number? ")
+while invalid == True:
+    if guess == '1' or guess == '2' or guess == '3' or guess == '4' or guess == '5' or guess == '6' or guess == '7' or guess == '8' or guess == '9' or guess == '10':
+        break
+    else:
+        guess = input("Invalid input, try again: ")
 if question == 6:
     score += 1
     score_percent = score / 4 * 100
